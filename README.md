@@ -5,7 +5,7 @@ Welcome to the enhanced version of Flappy Bird using computer vision and MediaPi
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Demo](#Demo)
+- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -19,7 +19,8 @@ This project is a modified version of the classic Flappy Bird game. It uses comp
 
 ## Demo
 
-![Scrn][scrns/img.png]
+![Scrn](scrns/img.png)
+
 
 ## Features
 
